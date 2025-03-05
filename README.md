@@ -1,5 +1,7 @@
 // Contiene instrucciones que generalmente son para que tú sepas como hacer la instalación del software.
+
 // Informacion o descripcion del  proyecto
+
 ///El commit es una acción muy importante del Git, que nos ayuda a tener un control de versionamiento de nuestro proyecto. El commit nos permite guardar un estado de nuestro proyecto en un determinado punto.
 
 ![b2037644469fe6dd74d0728f1ca710a1](https://github.com/user-attachments/assets/03b04226-d742-4049-bd8e-55ea882935ba)

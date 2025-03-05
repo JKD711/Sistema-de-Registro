@@ -11,6 +11,10 @@
 
   - Estado del proyecto: En construccion
 
+Para ejecutar el sistema debes poner:
+
+```npm install react```
+
 <h4 align="center">
 :construction: Proyecto en construcción :construction:
 </h4>
